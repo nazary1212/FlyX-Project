@@ -34,7 +34,7 @@ def save_frame(video_path, save_dir, gap=10):
 
 if __name__ == "__main__":
     # Specify the path to your video file
-    video_path = "/Users/ny/Documents/FLYX_PROJECT/Converted_Recordings/test2.mp4" #change final /to recording name
+    video_path = "/Users/ny/Documents/FLYX_PROJECT/Converted_Recordings/2024-03-21_9PM.mp4" #change final /to recording name
 
     # Specify the directory where you want to save the extracted frames
     save_dir = "/Users/ny/Documents/FLYX_PROJECT/Extracted_Frames"
